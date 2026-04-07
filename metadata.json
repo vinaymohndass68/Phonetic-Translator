@@ -1,0 +1,5 @@
+{
+  "name": "Phonetic Translator",
+  "description": "An application that finds sentences in other languages that sound phonetically similar to a given source sentence. It uses the Gemini API for creative, sound-based translation across English, Hindi, Tamil, and Telugu.",
+  "requestFramePermissions": []
+}
